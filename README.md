@@ -1,10 +1,9 @@
-# <i>resumizer 📄⚙️</i>
-<h1>🔗Try live <a href="https://resumizer.netlify.app/">demo</a>.</h1>
+<h1> <i>resumizer 📄⚙️</i> <br> 🔗Try live <a href="https://resumizer.netlify.app/">demo</a>.</h1>
 
 It's simple online resume builder to build simple resume fast.🚀
 
-
-<ul><h1> Tools: </h1>
+<h1> Tools: </h1>
+<ul>
 <li>Core JavaScript✅</li>
 <li>Preprocessor✅</li>
 <li>Bootstrap✅</li>
