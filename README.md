@@ -1,4 +1,5 @@
-<h1> <i>resumizer 📄⚙️</i> <br> <br> 🔗Try live <a href="https://resumizer.netlify.app/">demo</a>.</h1>
+<h1> <i>resumizer 📄⚙️</i></h1> <br>
+<p>🔗Try live <a href="https://resumizer.netlify.app/">demo</a>.<p>
 
 It's simple online resume builder to build simple resume fast.🚀
 
