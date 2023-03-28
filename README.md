@@ -1,5 +1,5 @@
 # resumizer
-🔗Try <a href="https://resumizer.netlify.app/">demo</a> online.
+<h1>🔗Try <a href="https://resumizer.netlify.app/">demo</a> online.</h1>
 
 It's simple online resume builder to build simple resume fast.
 
