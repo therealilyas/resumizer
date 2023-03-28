@@ -3,7 +3,7 @@
 
 It's simple online resume builder to build simple resume fast.
 
-#Tools:
+# Tools:
 -Core JavaScript
 -Preprocessor
 -Bootstrap
