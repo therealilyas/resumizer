@@ -8,6 +8,7 @@ It's simple online resume builder to build simple resume fast.
 -Preprocessor
 -Bootstrap
 <div>
-<img src="/mobile (1).png" alt="screenshot" title="Mobile" style="width:300px">
+  
 <img src="/laptop.png" alt="screenshot" title="Laptop" style="width:300px">
+<img src="/mobile (1).png" alt="screenshot" title="Mobile" style="width:300px">
 </div>
