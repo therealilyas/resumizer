@@ -7,3 +7,4 @@ It's simple online resume builder to build simple resume fast.
 -Core JavaScript
 -Preprocessor
 -Bootstrap
+<img src="/mobile (1).png" alt="screenshot" title="Mobile">
