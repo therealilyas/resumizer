@@ -2,7 +2,7 @@
 
 It's simple online resume builder to build simple resume fast.🚀
 
-<p style="font-size:45px;"> Tools: </p>
+<span style="font-size:45px;"> Tools: </span>
 <ul>
 <li>Core JavaScript✅</li>
 <li>Preprocessor✅</li>
